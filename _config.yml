@@ -1,0 +1,14 @@
+layout_spectrum: 0.8093417689669877
+typography_spectrum: 0.694869045400992
+color:
+  brandStrength: 0.4535528523847461
+  lightness: 0.7381660621613264
+  saturation: 0.13479435187764466
+  rhythmicContrast: 0.30242530233226717
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: woodsoft
